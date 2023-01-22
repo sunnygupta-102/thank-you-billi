@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Moms-Typewriter;
+    src: url(https://helpwomen.in/billi-thank/app/font/mom.ttf);
+}
+
+body {
+    background-image: url(https://helpwomen.in/billi-thank/app/bg.jpg);
+    font-family:  Moms-Typewriter;
+}
+
+.wrapper {
+    display: inline-block;
+    margin: 15% 20%;
+}
+
+.text {
+    font-size: 24px;
+}
+
+
+
+.cat1{
+    width: 55px;
+    display: inline-block;
+    margin: 10px 0px 8px 30;
+    float: right;
+}
+
+.cat2{
+    width: 55px;
+    display: inline-block;
+    margin: 10px 0px 8px 30;
+    float: right;
+    position: relative;
+}

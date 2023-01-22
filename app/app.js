@@ -1,0 +1,1 @@
+alert("Thank you Billi for scaning the QR code");
